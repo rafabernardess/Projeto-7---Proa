@@ -93,7 +93,7 @@ body.dark{
 
 .indicator .hand{
     position: absolute;
-    height: 110px;  /* Diminuindo o tamanho da mão */
+    height: 105px;  /* Diminuindo o tamanho da mão */
     width: 4px;
     bottom: 0;
     border-radius: 25px;
