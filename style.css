@@ -40,14 +40,14 @@ body.dark{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 50px;
+    gap: 60px;
 
 }
 
 .container .clock{
     display: flex;
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
     align-items: center;
     justify-content: center;
