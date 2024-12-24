@@ -16,7 +16,10 @@
     --red-color: #e74c3c;
 }
 
-    
+    html, body {
+    overflow-x: hidden;  /* Impede o scroll horizontal */
+}
+
 body{
     display: flex;
     min-height: 100vh;
@@ -37,7 +40,7 @@ body.dark{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 60px;
+    gap: 50px;
 
 }
 
