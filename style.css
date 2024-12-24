@@ -93,7 +93,7 @@ body.dark{
 
 .indicator .hand{
     position: absolute;
-    height: 130px;
+    height: 110px;  /* Diminuindo o tamanho da mão */
     width: 4px;
     bottom: 0;
     border-radius: 25px;
@@ -102,13 +102,13 @@ body.dark{
 }
 
 .hand.minute{
-    height: 120px;
+    height: 100px;  /* Diminuindo a mão do minuto */
     width: 5px;
     background: var(--black-color);
 }
 
 .hand.hour{
-    height: 100px;
+    height: 80px;  /* Diminuindo a mão da hora */
     width: 8px;
     background: var(--black-color);
 }
